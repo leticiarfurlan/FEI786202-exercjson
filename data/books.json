@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "bookName" : "Verity",
+            "authorName" : "Collen Hoover"
+        },
+        {
+            "bookName" : "Um corpo na biblioteca",
+            "authorName" : "Agatha Christie"
+        },
+        {
+            "bookName" : "Nossa parte da Noite",
+            "authorName" : "Mariana Enríquez"
+        }
+    ]
+}
